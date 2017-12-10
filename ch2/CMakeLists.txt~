@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 2.8)
+project(HelloSLAM)
+add_executable(helloSLAM helloSlam.cpp)
+add_library(hello_shared SHARED libHelloSlam.cpp)
