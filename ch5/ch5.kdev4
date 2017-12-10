@@ -1,0 +1,4 @@
+[Project]
+Name=ch5
+Manager=KDevCMakeManager
+VersionControl=kdevgit
