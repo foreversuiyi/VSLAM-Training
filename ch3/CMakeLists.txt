@@ -1,0 +1,10 @@
+project(ch3)
+set(CMAKE_CXX_FLAGS "-std=c++11")
+add_executable(eigenMatrix eigenMatrix.cpp)
+add_executable(useGeometry useGeometry.cpp)
+add_executable(visualizeGeometry visualizeGeometry.cpp)
+
+find_package(Pangolin)
+include_directories(${Pangolin_INCLUDE_DIRS})
+target_link_libraries(visualizeGeometry ${Pangolin_LIBRARIES})
+include_directories("/usr/include/eigen3")
