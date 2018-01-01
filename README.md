@@ -8,5 +8,6 @@
 #ch7 Feature-based visual odometry  
 #ch8 Direct method visual odometry  
 #Visual_Odometry Visual odometry implementation  
+#ch10 Bundle Adjustment  
 #To be continued...  
 #  
