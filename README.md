@@ -1,4 +1,4 @@
-# VSLAM-Learning  
+# VSLAM-Learning(based on the vslam book written by Dr. Gao Xiang)  
 #Learn visual SLAM step by step.  
 #ch2 c++ basics (CMakeLists.txt)  
 #ch3 Rigid body motion (Eigen)  
@@ -9,5 +9,7 @@
 #ch8 Direct method visual odometry  
 #Visual_Odometry Visual odometry implementation  
 #ch10 Bundle Adjustment  
-#To be continued...  
-#  
+#ch11 Pose Graph  
+#ch12 Loop closure  
+#ch13 Mapping  
+#FINISHED!!!
