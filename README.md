@@ -7,7 +7,7 @@
 #ch6 Nonlinear optimisation  
 #ch7 Feature-based visual odometry  
 #ch8 Direct method visual odometry  
-#Visual_Odometry Visual odometry implementation  
+#Visual odometry implementation  
 #ch10 Bundle Adjustment  
 #ch11 Pose Graph  
 #ch12 Loop closure  
