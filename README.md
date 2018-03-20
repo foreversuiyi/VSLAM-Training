@@ -1,4 +1,4 @@
-# VSLAM-Learning(based on the vslam book written by Dr. Gao Xiang)  
+# (Based on the vslam book written by Dr. Gao Xiang)  
 #Learn visual SLAM step by step.  
 #ch2 c++ basics (CMakeLists.txt)  
 #ch3 Rigid body motion (Eigen)  
